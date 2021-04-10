@@ -1,0 +1,2 @@
+# aidebian
+After Install Debian
