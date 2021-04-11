@@ -1,0 +1,12 @@
+site_name: After Install Debian
+nav:
+    - Home: index.md
+    - Control: control.md
+    - Model: model.md
+    - Virtualbox: virtualbox.md
+    - Python: python.md
+    - R: rlang.md
+    - Chrome: chrome.md
+    - VS Code: vscode.md
+    - Docker: docker.md
+    - About: about.md
