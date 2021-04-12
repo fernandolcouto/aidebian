@@ -1,6 +1,7 @@
 # Control
 This is a *basic* control layout. Of the tools indicated on this page, only **Git** has a global scope.  
 <br />
+# https://www.redhat.com/sysadmin/kubernetes-components?utm_medium=Email&utm_campaign=weekly&sc_cid=7013a0000026GNKAA2
 
 ## Git
 
